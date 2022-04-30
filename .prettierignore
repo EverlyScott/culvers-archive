@@ -1,0 +1,2 @@
+# ignore ejs files because the way prettier formats ejs files messes up ejs syntax highlighting at times
+*.ejs
